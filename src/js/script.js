@@ -65,8 +65,29 @@ console.log(valor1 / valor2);
 // && = E (todas condições tem que ser verdadeira)
 // 
 
-console.log(valor < valor2)
 console.log(valor1 > 10 && valor2 < 10)
 console.log(valor1 + valor2);
 console.log(valor1 == valor2);
 console.log(valor1 === valor2);
+
+
+//////////////////////////////////////////////////////////////////////////////
+
+const p=300;
+const v=20;
+
+const preçoFinal= p-v;
+console.log("O preço final com desconto é",preçoFinal)
+
+let a=20;
+let b=10;
+
+let comparar= (a ==20 && b >= 10)
+console.log("O resultado é",comparar)
+
+user_login = true;
+user_password = true;
+
+if (user_login == true);{
+    console.log("Transação Realizada")
+}
