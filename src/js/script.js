@@ -47,3 +47,26 @@ console.log(exemplo7);
 
 let exemplo8=null;
 console.log(exemplo8);
+
+// OPERAÇÕES ARITIMETICOS
+
+const valor1=10;
+const valor2=20;
+
+console.log(valor1 + valor2);
+console.log(valor1 - valor2);
+console.log(valor1 * valor2);
+console.log(valor1 / valor2);
+
+// OPERAÇÕES LOGICOS
+// = atribuição
+// == comparação 
+// === valor e tipo (estritamente igual)
+// && = E (todas condições tem que ser verdadeira)
+// 
+
+console.log(valor < valor2)
+console.log(valor1 > 10 && valor2 < 10)
+console.log(valor1 + valor2);
+console.log(valor1 == valor2);
+console.log(valor1 === valor2);
